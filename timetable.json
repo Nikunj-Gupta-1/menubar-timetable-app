@@ -1,0 +1,171 @@
+{
+  "timezone": "Asia/Kolkata",
+  "weekStartsOn": "Monday",
+  "periods": [
+    { "id": 1, "start": "09:00", "end": "09:50" },
+    { "id": 2, "start": "09:55", "end": "10:45" },
+    { "id": 3, "start": "10:50", "end": "11:40" },
+    { "id": 4, "start": "11:45", "end": "12:35" },
+    { "id": 5, "start": "12:40", "end": "13:30" },
+    { "id": 6, "start": "13:35", "end": "14:25" },
+    { "id": 7, "start": "14:30", "end": "15:20" },
+    { "id": 8, "start": "15:25", "end": "16:15" },
+    { "id": 9, "start": "16:20", "end": "17:10" }
+  ],
+  "days": {
+    "Monday": [
+      {
+        "period": 1,
+        "course": "Design and analysis of Algorithms",
+        "code": "CS F364",
+        "section": "L1",
+        "instructor": "Hussain Ahmed Chowdhary",
+        "room": "222",
+        "nickname": "DAA"
+      },
+      {
+        "period": 3,
+        "course": "Deep Learning",
+        "code": "CS F425",
+        "section": "L1",
+        "instructor": "Tamizharasan Periyasamy",
+        "room": "223",
+        "nickname": "DL"
+      },
+      {
+        "period": 5,
+        "course": "Effective Public Speaking",
+        "code": "GS F245",
+        "section": "L1",
+        "instructor": "Shazi shah Jabeen",
+        "room": "262",
+        "nickname": "EPS"
+      },
+      {
+        "period": 8,
+        "course": "Compiler Construction LAB",
+        "code": "CS F363",
+        "section": "P2",
+        "instructor": "Angel Arul Jothi",
+        "room": "332",
+        "nickname": "CCL"
+      },
+      {
+        "period": 9,
+        "course": "Compiler Construction LAB",
+        "code": "CS F363",
+        "section": "P2",
+        "instructor": "Angel Arul Jothi",
+        "room": "332",
+        "nickname": "CCL"
+      }
+    ],
+    "Tuesday": [
+      {
+        "period": 2,
+        "course": "Data Mining",
+        "code": "CS F415",
+        "section": "L1",
+        "instructor": "Angel Arul Jothi",
+        "room": "229",
+        "nickname": "DM"
+      },
+      {
+        "period": 3,
+        "course": "Computer Networks",
+        "code": "CS F303",
+        "section": "L1",
+        "instructor": "Rajendra Patil",
+        "room": "222",
+        "nickname": "CN"
+      },
+      {
+        "period": 8,
+        "course": "Effective Public Speaking",
+        "code": "GS F245",
+        "section": "L1",
+        "instructor": "Shazi shah Jabeen",
+        "room": "262",
+        "nickname": "EPS"
+      }
+    ],
+    "Wednesday": [
+      {
+        "period": 1,
+        "course": "Compiler Construction",
+        "code": "CS F363",
+        "section": "L1",
+        "instructor": "Kajal Kansal",
+        "room": "222",
+        "nickname": "CC"
+      },
+      {
+        "period": 3,
+        "course": "Computer Networks",
+        "code": "CS F303",
+        "section": "L1",
+        "instructor": "Rajendra Patil",
+        "room": "222",
+        "nickname": "CN"
+      },
+      {
+        "period": 8,
+        "course": "Data Mining",
+        "code": "CS F415",
+        "section": "L1",
+        "instructor": "Angel Arul Jothi",
+        "room": "229",
+        "nickname": "DM"
+      }
+    ],
+    "Thursday": [
+      {
+        "period": 1,
+        "course": "Computer Networks LAB",
+        "code": "CS F303",
+        "section": "P4",
+        "instructor": "Rajendra Patil",
+        "room": "333",
+        "nickname": "CNL"
+      },
+      {
+        "period": 2,
+        "course": "Computer Networks LAB",
+        "code": "CS F303",
+        "section": "P4",
+        "instructor": "Rajendra Patil",
+        "room": "333",
+        "nickname": "CNL"
+      },
+      {
+        "period": 4,
+        "course": "Deep Learning",
+        "code": "CS F425",
+        "section": "L1",
+        "instructor": "Tamizharasan Periyasamy",
+        "room": "223",
+        "nickname": "DL"
+      },
+      {
+        "period": 5,
+        "course": "Design and analysis of Algorithms",
+        "code": "CS F364",
+        "section": "L1",
+        "instructor": "Hussain Ahmed Chowdhary",
+        "room": "222",
+        "nickname": "DAA"
+      }
+    ],
+    "Friday": [
+      {
+        "period": 2,
+        "course": "Compiler Construction",
+        "code": "CS F363",
+        "section": "L1",
+        "instructor": "Kajal Kansal",
+        "room": "222",
+        "nickname": "CC"
+      }
+    ]
+  }
+}
